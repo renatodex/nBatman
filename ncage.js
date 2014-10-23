@@ -42,6 +42,8 @@
 		"http://ughalex.files.wordpress.com/2013/05/tumblr_lxamtuvmvq1r4etbjo1_5001.gif?w=820",
 		"http://25.media.tumblr.com/tumblr_llhctdm0jU1qje621o1_500.gif",
 		"http://24.media.tumblr.com/tumblr_lx8id0omG11r4etbjo1_500.gif",
+		"http://ia.media-imdb.com/images/M/MV5BMTUzMDM4Nzk2MV5BMl5BanBnXkFtZTcwNTcwNjExOQ@@._V1_SY317_CR1,0,214,317_AL_.jpg",
+		"http://www.picpicx.com/wp-content/uploads/2014/07/3a00c46e1f8153985d06a7a25a680cd0.jpg"
         ],
         handleImages: function (lstImgs, time) {
             $.each($('img'), function (i, item) {
