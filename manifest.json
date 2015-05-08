@@ -1,0 +1,15 @@
+{
+  "app": {
+    "background": {
+      "scripts": [
+        "ncage.js"
+      ]
+    }
+  },
+  "manifest_version": 2,
+  "name": "nBatman",
+  "version": "1.0",
+  "description": "An app that changes all images to batman images",
+  "author": "Renato Alves based on qwertyman1 code.",
+  "offline_enabled": true
+}
